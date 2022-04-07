@@ -1,0 +1,24 @@
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\RunningButtons\RunningButtons\bin\Debug\RunningButtons.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\RunningButtons\RunningButtons\bin\Debug\RunningButtons.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\RunningButtons\RunningButtons\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\RunningButtons\RunningButtons\obj\Debug\RunningButtons.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\RunningButtons\RunningButtons\obj\Debug\RunningButtons.csproj.GenerateResource.Cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\RunningButtons\RunningButtons\obj\Debug\RunningButtons.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\RunningButtons\RunningButtons\obj\Debug\RunningButtons.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\RunningButtons\RunningButtons\obj\Debug\RunningButtons.MainForm.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\RunningButtons\RunningButtons\bin\Debug\RunningButtons.exe.manifest
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\RunningButtons\RunningButtons\bin\Debug\RunningButtons.application
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\RunningButtons\RunningButtons\obj\Debug\RunningButtons.exe.manifest
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\RunningButtons\RunningButtons\obj\Debug\RunningButtons.application
+E:\PROJECT\Resurses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.exe
+E:\PROJECT\Resurses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.pdb
+E:\PROJECT\Resurses\RunningButtons\RunningButtons\bin\Debug\RunningButtons.exe.manifest
+E:\PROJECT\Resurses\RunningButtons\RunningButtons\bin\Debug\RunningButtons.application
+E:\PROJECT\Resurses\RunningButtons\RunningButtons\bin\Debug\RunningButtons.exe
+E:\PROJECT\Resurses\RunningButtons\RunningButtons\bin\Debug\RunningButtons.pdb
+E:\PROJECT\Resurses\RunningButtons\RunningButtons\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJECT\Resurses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.MainForm.resources
+E:\PROJECT\Resurses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.Properties.Resources.resources
+E:\PROJECT\Resurses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.csproj.GenerateResource.Cache
+E:\PROJECT\Resurses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.exe.manifest
+E:\PROJECT\Resurses\RunningButtons\RunningButtons\obj\Debug\RunningButtons.application
